@@ -1,4 +1,4 @@
-# CIFAR-10 ResNet モデル仕様（簡潔版）
+# CIFAR-10 ResNet モデル仕様
 
 ## モデルアーキテクチャ
 - `Conv2d(3→32)` → BatchNorm → ReLU で入力画像の初期特徴抽出。
